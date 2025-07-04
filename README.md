@@ -1,5 +1,7 @@
 # Beacon
 
+![Beacon](https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/25/Beacon_JE6_BE2.png/revision/latest?cb=20241106154445)
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/Edartruwu/beacon.svg)](https://pkg.go.dev/github.com/Edartruwu/beacon)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Edartruwu/beacon)](https://goreportcard.com/report/github.com/Edartruwu/beacon)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
